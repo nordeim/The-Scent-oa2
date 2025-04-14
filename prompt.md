@@ -1,0 +1,1 @@
+have you completed generating the improved landing page for "The Scent" aromatherapy store? If yes, please create an awesome GitHub README.md for a new GitHub repo to showcase your design talent. describe your design clearly and logically, your inspiration, design methodology and thought process and design elements.
